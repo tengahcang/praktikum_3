@@ -1,0 +1,7 @@
+p { font-size: 20px; color: brown; margin: 0; }
+p { 
+    FONT-size: 20px; /* Ukuran font */
+    color: brown; /* Warna font */
+    margin: 0; /* Margin font */
+}
+
